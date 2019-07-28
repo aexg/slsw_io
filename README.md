@@ -23,4 +23,14 @@
 - `sum2d.io`: sum all numbers in a two-dimensional array
 - `myaverage.io`: calclulates average of all numbers in a list
 
+## Day 3: The Parade and Other Strange Places (2019-07-28)
+
+### To remember
+
+- n/a
+
+### Code created
+
+- `xmlindent.io`: add spaces to show XML indentation structure
+
 (end of text)
